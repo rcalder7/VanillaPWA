@@ -1,0 +1,16 @@
+{
+  "short_name": "vanjspwa2DO",
+  "name": "Vanillajs To Do App as PWA",
+  "icons": [
+    {
+      "src": "/projects/vanillajspwa/icons/todoicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/projects/vanillajspwa/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/projects/vanillajspwa/",
+  "theme_color": "#3367D6"
+}
